@@ -15,3 +15,5 @@ You are tasked with setting up your personal web development environment using t
 ### Acceptance Criteria
 - Have an dev-server up and running for the VueJS server 
 
+## Skill(s)
+- [Spring Boot Framework](https://my.skilldisplay.eu/en/skill/1699/0)
