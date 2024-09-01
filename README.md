@@ -15,6 +15,3 @@ You are tasked with setting up your personal web development environment using t
 ### Acceptance Criteria
 - Have an dev-server up and running for the VueJS server 
 
-#### Links
-- https://spring.io/projects/spring-boot/
-- https://my.skilldisplay.eu/en/skillset/590
