@@ -7,7 +7,7 @@ You are tasked with setting up your personal web development environment using t
 *As a Developer I want to have a local development webserver available, so that I can run web apps and websites on my local system.*
 
 ### Acceptance Criteria
-- Have an server up and running for the server side
+- Have a server up and running for the server side
 
 ## User Story 2
 *As a Developer I want to have a local development webserver for the client side available, so that I can run web apps and websites on my local system.*
